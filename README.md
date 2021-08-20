@@ -8,4 +8,4 @@
 | release-* | 次回releaseの準備用 | develop | develop,main |
 | hotfix-* | 現在のversionのbug修正用 | main | develop,main |
 
-Branch is develop.
+Branch is feature-hicalu.
