@@ -16,4 +16,6 @@
 ### GitLab flow
 | branch | 意味 | 派生元 | merge先 |
 | :----: | :---- | :----: | :----: |
-| main | 現在のversion |   |   |
+| production | デプロイ用 |  |  |
+| main | 現在のversion | production | production |
+| feature/ | 新機能の開発用 | main | main |
